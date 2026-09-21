@@ -1,4 +1,7 @@
 node_modules
 dist
 aws.ts
+.env
+.env.*
+!.env.example
 src/aws.ts
